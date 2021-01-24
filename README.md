@@ -1,8 +1,9 @@
-# Project name here
-> Summary description here.
+# Earthshot Soil
+> Soil carbon stuff
 
 
-This file will become your README and also the index of your documentation.
+- [Earthshot soil carbon primer - Google Doc](https://docs.google.com/document/d/1Pwqh6YjItMWhD1kZS1i2wVHB0MpWIbC_8peg8I0vhUo/edit)  
+- [Supplementary_Data_File_1._environmental_covariates - Google Sheet](https://docs.google.com/spreadsheets/d/1hPw9G1A34SnlbDJ8sk3LYfwgoLN0Gbail2xdNb7viGc/edit#gid=106509025)
 
 ## Install
 
