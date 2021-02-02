@@ -11,10 +11,13 @@ entries:
       url: /
     - output: web,pdf
       title: Carbon Soil Datasets
-      url: /carbonsoil_datasets
+      url: /soilcarbon_datasets
     - output: web,pdf
-      title: Predictor datasets
+      title: 'Datasets: Environmental Covariates'
       url: /predictor_datasets
+    - output: web,pdf
+      title: Labelled carbon stock dataset
+      url: /labelled_carbon_stock_dataset
     - output: web,pdf
       title: Title
       url: /jargon

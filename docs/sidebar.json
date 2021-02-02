@@ -1,8 +1,9 @@
 {
   "earthshotsoil": {
     "Overview": "/",
-    "Carbon Soil Datasets": "/carbonsoil_datasets",
-    "Predictor datasets": "/predictor_datasets",
+    "Carbon Soil Datasets": "/soilcarbon_datasets",
+    "Datasets: Environmental Covariates": "/predictor_datasets",
+    "Labelled carbon stock dataset": "/labelled_carbon_stock_dataset",
     "Title": "/jargon"
   }
 }
