@@ -2,10 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"URLs": "01_environ_covariates.ipynb",
-         "n": "01_environ_covariates.ipynb"}
+index = {"Path.ls": "00_core.ipynb",
+         "jargon": "jargon.ipynb"}
 
-modules = ["env_data.py"]
+modules = ["core.py",
+           "jargon.py"]
 
 doc_url = "https://qAp.github.io/earthshotsoil/"
 
