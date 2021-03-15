@@ -3,9 +3,32 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Path.ls": "00_core.ipynb",
+         "DIR_DATA": "01_data.env.ipynb",
+         "pth_csv": "01_data.env.ipynb",
+         "ENCOV": "01_data.env.ipynb",
+         "pth_site": "01_data.wise3.ipynb",
+         "site": "01_data.wise3.ipynb",
+         "site.columns": "01_data.wise3.ipynb",
+         "vars_loc": "01_data.wise3.ipynb",
+         "vars_time": "01_data.wise3.ipynb",
+         "pth_horizon": "01_data.wise3.ipynb",
+         "horizon": "01_data.wise3.ipynb",
+         "horizon.columns": "01_data.wise3.ipynb",
+         "vars_cont": "01_data.wise3.ipynb",
+         "vars_disc": "01_data.wise3.ipynb",
+         "vars_id": "01_data.wise3.ipynb",
+         "depth_cols": "01_data.wise3.ipynb",
+         "horizon_cont": "01_data.wise3.ipynb",
+         "horizon_mean_cont": "01_data.wise3.ipynb",
+         "horizon_std_cont": "01_data.wise3.ipynb",
+         "imagify_profile": "01_data.wise3.ipynb",
+         "plt_profile_image": "01_data.wise3.ipynb",
+         "hv_depth_variable_image": "01_data.wise3.ipynb",
          "jargon": "jargon.ipynb"}
 
 modules = ["core.py",
+           "data/env.py",
+           "data/wise3.py",
            "jargon.py"]
 
 doc_url = "https://qAp.github.io/earthshotsoil/"
