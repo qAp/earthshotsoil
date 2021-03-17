@@ -3,7 +3,7 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Path.ls": "00_core.ipynb",
-         "DIR_DATA": "01_data.env.ipynb",
+         "DIR_DATA": "01_data.wise3.ipynb",
          "pth_csv": "01_data.env.ipynb",
          "ENCOV": "01_data.env.ipynb",
          "pth_site": "01_data.wise3.ipynb",
